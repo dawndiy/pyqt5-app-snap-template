@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=pyqt5-app-snap-template
+Name=PyQt5 App Snap Template
+Icon=${SNAP}/meta/gui/icon.png
